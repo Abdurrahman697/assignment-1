@@ -1,0 +1,1 @@
+giv me a FAQ Section. It will be supported by a h2, and p tage. Asked Questions will be in 1 div 5 Questions and giv me css code question and ans about development.
